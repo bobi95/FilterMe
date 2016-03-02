@@ -1,0 +1,8 @@
+c:\Users\Borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe.TestConsole\bin\Debug\FilterMe.TestConsole.exe.config
+c:\Users\Borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe.TestConsole\bin\Debug\FilterMe.TestConsole.exe
+c:\Users\Borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe.TestConsole\bin\Debug\FilterMe.TestConsole.pdb
+c:\Users\Borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe.TestConsole\bin\Debug\FilterMe.dll
+c:\Users\Borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe.TestConsole\bin\Debug\FilterMe.pdb
+c:\Users\Borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe.TestConsole\obj\Debug\FilterMe.TestConsole.csprojResolveAssemblyReference.cache
+c:\Users\Borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe.TestConsole\obj\Debug\FilterMe.TestConsole.exe
+c:\Users\Borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe.TestConsole\obj\Debug\FilterMe.TestConsole.pdb

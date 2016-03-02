@@ -1,0 +1,5 @@
+c:\users\borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe\bin\Debug\FilterMe.dll
+c:\users\borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe\bin\Debug\FilterMe.pdb
+c:\users\borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe\obj\Debug\FilterMe.csprojResolveAssemblyReference.cache
+c:\users\borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe\obj\Debug\FilterMe.dll
+c:\users\borislav\documents\visual studio 2015\Projects\FilterMe\FilterMe\obj\Debug\FilterMe.pdb
